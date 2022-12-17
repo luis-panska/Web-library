@@ -1,0 +1,36 @@
+    .section1 {
+        height: 370px;
+    }
+    
+    .section1 img {
+        width: 20%;
+        height: 300px;
+    }
+    
+    .section1 p {
+        background: black;
+        color: white;
+        position: relative;
+        top: 20px;
+        right: 70px;
+        padding: 20px;
+        width: 70%;
+        float: right;
+        box-sizing: border-box;
+    }
+    
+    .section1 a {
+        background: black;
+        color: white;
+        position: relative;
+        float: right;
+        text-decoration: none;
+        right: 35%;
+        border: 2px solid black;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    
+    .section1 a:hover {
+        color: red;
+    }
